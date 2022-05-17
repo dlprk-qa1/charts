@@ -16,6 +16,8 @@ $ helm install my-release bitnami/<chart>
 
 ## Before you begin
 
+## Test
+
 ### Prerequisites 
 
 - Kubernetes 1.19+
